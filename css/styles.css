@@ -582,6 +582,11 @@ button:focus {
   }
 
 }
+@media (max-width:580px)
+{
+  .carousel-indicators {
+    padding-top: 16%;
+}
 @media (max-width:550px)
 {
   .HEADING h1
@@ -617,6 +622,6 @@ button:focus {
 
   }
   .carousel-indicators {
-    padding-top: 23%;
+    padding-top: 20.8%;
 
 }
