@@ -7,7 +7,7 @@ hr
 width: 5%;
 margin-top: 2.5rem !important;
 margin-bottom: 3rem !important;
-border-top: 3px solid #78baff !important;
+border-top: 3px solid #77b8fe !important;
 }
 
 /* row-1 */
@@ -125,7 +125,7 @@ margin: 5% 0 0;
 }
 .carousel-indicators li
 {
-  background-color: #1562dc !important;
+      background-color: #77b8fe !important;
 }
 .btn-rw-2
 {
@@ -293,7 +293,7 @@ padding: 0.5rem 6rem !important;
 /*accordian*/
 
 .accordion {
-  background-color: #f4f8f9;
+background-color: #f4f9f9;
   color: black;
   cursor: pointer;
   padding: 18px;
@@ -547,7 +547,7 @@ button:focus {
   {
     font-size: 0.8rem;
   }
-  
+
 }
 @media screen and (max-width:680px)
 {
