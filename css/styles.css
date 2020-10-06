@@ -580,6 +580,9 @@ button:focus {
   .lorem{
     font-size:0.7rem;
   }
+    .carousel-indicators {
+    padding-top: 14%;
+}
 
 }
 @media (max-width:580px)
